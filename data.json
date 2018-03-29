@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "name":"kasi",
+    "email":"kasinath1120@gmail.com",
+    "photo":"kasi.jpeg",
+    "phone":"7416367322",
+    "address":"puttur"
+  },
+  "career":{
+    "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal"
+  },
+"education":[
+{
+  "course":"MCA",
+  "college":"SVPCET,puttur,",
+  "data":["2015-2018","80.25%"]
+},
+{
+  "course":"Bsc(computers)",
+  "college":"SSDC,puttur,",
+  "data":["2012-2015","82.25%"]
+},
+{
+  "course":"Intermediate(M.P.C)",
+  "college":"HIMAJA,puttur,",
+  "data":["2010-2012","83.25%"]
+},
+{
+  "course":"S.S.C",
+  "college":"HIMAJA,puttur,",
+  "data":["2009-2010","80.25%"]
+}
+]
+}
